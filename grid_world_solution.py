@@ -1,9 +1,4 @@
-"""
-Grid World - Solution avec Value Iteration et Policy Iteration
-Script Python standalone (alternative au notebook Jupyter)
 
-Auteur: Solution pour le cours d'apprentissage par renforcement
-"""
 
 import numpy as np
 import matplotlib.pyplot as plt
